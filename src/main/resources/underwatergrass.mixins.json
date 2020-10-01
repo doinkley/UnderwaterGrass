@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.doinkstr.underwatergrass.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "SpreadableBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
